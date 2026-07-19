@@ -51,21 +51,21 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	});
 
 	// 我的及其子菜单
-	links.push({
-		name: "我的",
-		url: "#",
-		icon: "material-symbols:person",
-		// children: [
-		// 	// 相册
-		// 	LinkPresets.Gallery,
+	// links.push({
+	// 	name: "我的",
+	// 	url: "#",
+	// 	icon: "material-symbols:person",
+	// 	// children: [
+	// 	// 	// 相册
+	// 	// 	LinkPresets.Gallery,
 
-		// 	// 追番
-		// 	LinkPresets.Anime,
+	// 	// 	// 追番
+	// 	// 	LinkPresets.Anime,
 
-		// 	// 番组计划
-		// 	LinkPresets.Bangumi,
-		// ],
-	});
+	// 	// 	// 番组计划
+	// 	// 	LinkPresets.Bangumi,
+	// 	// ],
+	// });
 
 	// 关于及其子菜单
 	links.push({
